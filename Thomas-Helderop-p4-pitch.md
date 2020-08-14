@@ -28,15 +28,17 @@ Technology, meet Thomas.
 - Build a basic database in Django as a test
 - Begin work on models
 ### Saturday 8/15
-- Continue work on models
+- Finish models
+- Begin frontend
 - Plot the end of the world with my alien overlords
 ### Sunday 8/16
-- Finish models (potentially push this to Monday)
+- Build out frontend
+- Redesign models as needed
 ### Monday 8/17
-- Begin work on frontend in Django
+- Squash any and all bugs
+- Reach total functionality for proof-of-concept
 ### Tuesday 8/18
-- Further build out frontend
-- Squash any and all bugs at this point
+- Frontend styling
 ### Wednesday 8/19
 - Today is just the cherry on top- expand the frontend as much as I can in the time available
 
