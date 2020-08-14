@@ -1,10 +1,11 @@
 # P4 Pitch
 - Name of app: Congress (placeholder)
 - My name: Thomas Helderop
-- New tech: Django for the backend, React or Vue (depending on time) for the frontend
+- New tech: Django for backend and frontend
 
 ## How do I plan on learning/implementing this new technology?
 - YouTube Django tutorials
+- Django documentation
 - Prostrating myself before my god, Google, in hopes that it will, in its infinite knowledge, reveal the answers to my questions
 
 ## What is my goal with this project?
@@ -23,6 +24,7 @@ Technology, meet Thomas.
 ## Work Schedule
 ### Friday 8/14
 - YouTube tutorials for Django
+- Dive into Django documentation
 - Build a basic database in Django as a test
 - Begin work on models
 ### Saturday 8/15
@@ -31,9 +33,9 @@ Technology, meet Thomas.
 ### Sunday 8/16
 - Finish models (potentially push this to Monday)
 ### Monday 8/17
-- Oh god how can I hook up Django to the frontend? A question to be answered on this day.
+- Begin work on frontend in Django
 ### Tuesday 8/18
-- Stand up a basic front end (likely React)
+- Further build out frontend
 - Squash any and all bugs at this point
 ### Wednesday 8/19
 - Today is just the cherry on top- expand the frontend as much as I can in the time available
